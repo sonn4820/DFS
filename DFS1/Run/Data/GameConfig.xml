@@ -1,0 +1,30 @@
+<GameConfig
+	aspectRation="2.f"
+	screenSizeX="1600"
+	screenSizeY="800"
+	sound="0.5"
+	music="0.5"
+	cameraShake="true"
+	mainMenuMusic="Data/Audio/"
+	gameMusic1="Data/Audio/gameMusic1.mp3"
+	gameMusic2="Data/Audio/gameMusic2.mp3"
+	gameMusic3="Data/Audio/gameMusic3.mp3"
+	gameMusic4="Data/Audio/gameMusic4.mp3"
+	gameMusic5="Data/Audio/gameMusic5.mp3"
+	menuMusic="Data/Audio/menuMusic.mp3"
+	buttonClick="Data/Audio/buttonClick.wav"
+	slider="Data/Audio/slider.wav"
+	bounceGround="Data/Audio/bounceGround.wav"
+	bouncBackboard="Data/Audio/bounceBB.mp3"
+	bounceNet="Data/Audio/boundBasket.mp3"
+	scoreSound="Data/Audio/scoreSound.mp3"
+	
+	staticBlocker="Data/Audio/lebron.mp3"
+	continuousBlocker="Data/Audio/luka.mp3"
+	timerBlocker="Data/Audio/damian.mp3"
+	
+	debugMuteAll="false"
+/>
+
+
+
